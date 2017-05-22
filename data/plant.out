@@ -1,0 +1,9 @@
+Results of plant growth simulation: 
+
+
+                Accum
+       Number    Temp                                    Leaf
+  Day      of  during   Plant  Canopy    Root   Fruit    Area
+   of    Leaf  Reprod  Weight  Weight  Weight  weight   Index
+ Year   Nodes    (oC)  (g/m2)  (g/m2)  (g/m2)  (g/m2) (m2/m2)
+ ----  ------  ------  ------  ------  ------  ------  ------
